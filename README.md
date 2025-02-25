@@ -1,4 +1,3 @@
-## Ke Feng  
 CNRS Researcher (Chargée de Recherche) - ETIS  
 Email: ke.feng at ensea.fr  
 My topics of interest include networks, probabilities, stochastic geometry, and wireless communications  
