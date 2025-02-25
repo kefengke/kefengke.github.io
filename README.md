@@ -11,18 +11,18 @@ My topics of interest include networks, probabilities, stochastic geometry, and 
 "Poisson hail on wireless ground", with François Baccelli and Sergey Foss, submitted, 2025. [Arxiv.](https://arxiv.org/abs/2501.10712)  
 #### Spatial network calculus and performance guarantees
 "Spatial Network Calculus: Toward Deterministic Wireless Networking", with Yi Zhong and Xiaohang Zhou, submitted, 2025. [Arxiv.](https://arxiv.org/abs/2501.02556)  
-"Spatial network calculus and performance guarantees in wireless networks", with François Baccelli, 2024 IEEE Trans. Wir. Commus. [Arxiv.](https://arxiv.org/abs/2302.02001)  
+"Spatial network calculus and performance guarantees in wireless networks", with François Baccelli, IEEE Trans. Wirel. Commun., 2024 [Arxiv.](https://arxiv.org/abs/2302.02001)  
 #### Meta distributions
-"Joint spatial-propagation modeling of cellular networks based on the directional radii of Poisson Voronoi cells", with Martin Haenggi, IEEE Trans. Wir. Commus. 2021.   
-"Separability, asymptotics, and applications of the SIR meta distribution in cellular networks", with Martin Haenggi, IEEE Trans. Wir. Commus. 2020.  
+"Joint spatial-propagation modeling of cellular networks based on the directional radii of Poisson Voronoi cells", with Martin Haenggi, IEEE Trans. Wirel. Commun., 2021.   
+"Separability, asymptotics, and applications of the SIR meta distribution in cellular networks", with Martin Haenggi, IEEE Trans. Wirel. Commun., 2020.  
 #### Coordinated multipoint
 "A Tunable Base Station Cooperation Scheme for Poisson Cellular Networks", with Martin Haenggi, 2018 52nd Annual Conference on Information Sciences and Systems (CISS), Princeton, New Jersey
 
 ### Bio
-CNRS Researcher, ETIS, 2024-  
-Postdoctoral fellow, Inria-ENS Paris, 2021-2024  
-Ph.D. and M.Sc., University of Notre Dame, 2016-2021  
-B.Sc., USTC, 2012-2016  
+CNRS Researcher, ETIS, France, 2024-  
+Postdoctoral fellow, Inria-ENS Paris, France, 2021-2024  
+Ph.D. and M.Sc., University of Notre Dame, USA, 2016-2021  
+B.Sc., USTC, China, 2012-2016  
 
 
 [Last updated: feb. 2025]
