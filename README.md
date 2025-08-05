@@ -1,6 +1,6 @@
 CNRS Researcher (Chargée de Recherche) - ETIS  
 Email: ke.feng at ensea.fr  
-My topics of interest include networks, probabilities, stochastic geometry, and wireless communications  
+My topics of interest include networks, probabilities, stochastic geometry, information theory, and wireless communications  
 [Google scholar](https://scholar.google.com/citations?hl=en&tzom=-120&user=iNx3NCoAAAAJ)
 
 ### Research
@@ -8,6 +8,7 @@ My topics of interest include networks, probabilities, stochastic geometry, and 
 "Spatial Disease Propagation With Hubs", with Martin Haenggi, IEEE Trans. Netw. Sci. Eng., 2025. [Arxiv.](http://arxiv.org/abs/2502.16552)
 #### Dynamic networks
 "Poisson hail on wireless ground", with François Baccelli and Sergey Foss, submitted, 2025. [Arxiv.](https://arxiv.org/abs/2501.10712)  
+[code.](https://github.com/kefengke/PHWG)
 #### Spatial network calculus and performance guarantees
 "Spatial Network Calculus: Toward Deterministic Wireless Networking", with Yi Zhong and Xiaohang Zhou, submitted, 2025. [Arxiv.](https://arxiv.org/abs/2501.02556)  
 "Spatial network calculus and performance guarantees in wireless networks", with François Baccelli, IEEE Trans. Wirel. Commun., 2024 [Arxiv.](https://arxiv.org/abs/2302.02001)  
