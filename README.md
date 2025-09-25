@@ -9,13 +9,18 @@ My topics of interest include networks, probabilities, stochastic geometry, info
 #### Dynamic networks
 "Poisson hail on wireless ground", with François Baccelli and Sergey Foss, submitted, 2025. [Arxiv.](https://arxiv.org/abs/2501.10712)  [code.](https://github.com/kefengke/PHWG)
 #### Spatial network calculus and performance guarantees
-"Spatial Network Calculus: Toward Deterministic Wireless Networking", with Yi Zhong and Xiaohang Zhou, submitted, 2025. [Arxiv.](https://arxiv.org/abs/2501.02556)  
+"Performance Guarantees of Cellular Networks with Hardcore Regulation and Scheduling", with François Baccelli and Catherine Rosenburg, Globecom 2025, Accepted.
+"Spatial Network Calculus: Toward Deterministic Wireless Networking", with Yi Zhong and Xiaohang Zhou, IEEE Trans. Wirel. Commun., Accepted, 2025. [Arxiv.](https://arxiv.org/abs/2501.02556)  
 "Spatial network calculus and performance guarantees in wireless networks", with François Baccelli, IEEE Trans. Wirel. Commun., 2024 [Arxiv.](https://arxiv.org/abs/2302.02001)  
 #### Meta distributions
 "Joint spatial-propagation modeling of cellular networks based on the directional radii of Poisson Voronoi cells", with Martin Haenggi, IEEE Trans. Wirel. Commun., 2021.   
 "Separability, asymptotics, and applications of the SIR meta distribution in cellular networks", with Martin Haenggi, IEEE Trans. Wirel. Commun., 2020.  
 #### Coordinated multipoint
 "A Tunable Base Station Cooperation Scheme for Poisson Cellular Networks", with Martin Haenggi, 2018 52nd Annual Conference on Information Sciences and Systems (CISS), Princeton, New Jersey
+
+### Teaching/Supervison
+M1 Internship, "Performance Evaluation of Spacetime Wireless Systems", ORNELLA SANGANG DCHYMKOU, co-advised with Qiong Liu, 2025.
+M1 Internship, "Stochastic Geometry-Guided AI for Network Optimization", Yuxuan Peng, co-advised with Qiong Liu, 2025.
 
 ### Bio
 CNRS Researcher, ETIS, France, 2024-  
