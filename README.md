@@ -9,7 +9,7 @@ My topics of interest include networks, probabilities, stochastic geometry, info
 #### Dynamic networks
 "Poisson hail on a wireless ground", with François Baccelli and Sergey Foss, submitted, 2025. [arXiv.](https://arxiv.org/abs/2501.10712)  [code.](https://github.com/kefengke/PHWG)
 #### Spatial network calculus and performance guarantees
-"Performance Guarantees of Cellular Networks with Hardcore Regulation and Scheduling", with François Baccelli and Catherine Rosenburg, Globecom 2025, Taipei. [arXiv.](https://arxiv.org/abs/2602.01802) 
+"Performance Guarantees of Cellular Networks with Hardcore Regulation and Scheduling", with François Baccelli and Catherine Rosenburg, Globecom 2025, Taipei. [arXiv.](https://arxiv.org/abs/2602.01802)   
 "Spatial Network Calculus: Toward Deterministic Wireless Networking", with Yi Zhong and Xiaohang Zhou, IEEE Trans. Wirel. Commun., Accepted, 2025. [arXiv.](https://arxiv.org/abs/2501.02556)  
 "Spatial network calculus and performance guarantees in wireless networks", with François Baccelli, IEEE Trans. Wirel. Commun., 2024 [arXiv.](https://arxiv.org/abs/2302.02001)  
 #### Meta distributions
