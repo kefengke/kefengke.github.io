@@ -3,6 +3,9 @@ Email: ke.feng at ensea.fr
 My topics of interest include networks, probabilities, stochastic geometry, information theory, and wireless communications  
 [Google scholar](https://scholar.google.com/citations?hl=en&tzom=-120&user=iNx3NCoAAAAJ)
 
+
+
+
 ### Research
 #### Epidemics on random bipartite geometric (RBG) graph
 "Spatial Disease Propagation With Hubs", with Martin Haenggi, IEEE Trans. Netw. Sci. Eng., 2025. [arXiv.](http://arxiv.org/abs/2502.16552)
@@ -18,7 +21,6 @@ My topics of interest include networks, probabilities, stochastic geometry, info
 #### Coordinated multipoint
 "A Tunable Base Station Cooperation Scheme for Poisson Cellular Networks", with Martin Haenggi, 2018 52nd Annual Conference on Information Sciences and Systems (CISS), Princeton, New Jersey  [arXiv.](https://arxiv.org/abs/1805.07486)
 
-[ETIS-ICI Seminars](https://kefengke.github.io/seminars.html)
 
 
 ### Teaching/Supervison
@@ -34,5 +36,10 @@ Postdoctoral fellow, Inria-ENS Paris, France, 2021-2024
 Ph.D. and M.Sc., University of Notre Dame, USA, 2016-2021  
 B.Sc., USTC, China, 2012-2016  
 
+### Some links
+[ETIS-ICI Seminars](https://kefengke.github.io/seminars.html)
+[Mathnet Seminars](https://team.inria.fr/mathnet/seminar/)
+[LINCS](https://www.lincs.fr)
+[Random Thoughts on Stochastic Geometry](https://stogblog.net)
 
 [Last updated: feb. 2026]
