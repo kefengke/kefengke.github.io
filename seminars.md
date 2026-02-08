@@ -19,4 +19,4 @@
 
 
 
-Format: date(mm/dd/yy), speaker, title, time&location.
+[Format: date(mm/dd/yy), speaker, title, time&location.]
