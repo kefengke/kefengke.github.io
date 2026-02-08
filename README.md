@@ -18,6 +18,8 @@ My topics of interest include networks, probabilities, stochastic geometry, info
 #### Coordinated multipoint
 "A Tunable Base Station Cooperation Scheme for Poisson Cellular Networks", with Martin Haenggi, 2018 52nd Annual Conference on Information Sciences and Systems (CISS), Princeton, New Jersey  [arXiv.](https://arxiv.org/abs/1805.07486)
 
+[ETIS-ICI Seminars](https://kefengke.github.io/seminars.html)
+
 
 ### Teaching/Supervison
 Information Theory, ENSEA, S8, Spring 2026. 
