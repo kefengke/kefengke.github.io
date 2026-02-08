@@ -37,9 +37,9 @@ Ph.D. and M.Sc., University of Notre Dame, USA, 2016-2021
 B.Sc., USTC, China, 2012-2016  
 
 ### Some links
-[ETIS-ICI Seminars](https://kefengke.github.io/seminars.html)
-[Mathnet Seminars](https://team.inria.fr/mathnet/seminar/)
-[LINCS](https://www.lincs.fr)
-[Random Thoughts on Stochastic Geometry](https://stogblog.net)
+[ETIS-ICI Seminars](https://kefengke.github.io/seminars.html)  
+[Mathnet Seminars](https://team.inria.fr/mathnet/seminar/)  
+[LINCS](https://www.lincs.fr)  
+[Random Thoughts on Stochastic Geometry](https://stogblog.net)  
 
 [Last updated: feb. 2026]
