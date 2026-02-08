@@ -1,13 +1,13 @@
 ## ETIS-ICI Seminar Series
 
-- 01/27/2026, Matthias Frey (University of Melbourne), Robust and Efficient Analog Over-the-Air Computation, 10am, online.
+- 01/27/2026, Matthias Frey (University of Melbourne, Australia), Robust and Efficient Analog Over-the-Air Computation, 10am, online.
 - 12/02/2025, Asmaa Amer (ETIS, CY-Cergy/ENSEA/CNRS), Energy Efficiency and Localization Accuracy in Pinching Antenna-based Sub-THz System, 10am, ENSEA
 - 10/13/2025, Sanjoy Kumar Jhawar (Télécom Paris & INRIA Paris), Handover frequency in dynamic terrestrial communication network, 2pm, ENSEA
-- 07/21/2025, Qiao Cheng, Ground Penetrating Radar (GPR) for Precision Agriculture: Insights from the TuberScan Project, ENSEA
-- 07/21/2025, Wenjuan Yu, From Collision to Connection: Random-Access Enhancements for Massive Connectivity, ENSEA
-- 07/09/2025, Ali Khalesi, Fundamental Limits of Distributed Networked Systems: An Information-Theoretic Journey Across Coding Theory and Sparse Matrix Factorisation, 4pm, ENSEA
-- 06/30/2025, Matthieu R. Bloch, Integrated Sensing and Communication: Time Scales Matter, 11am, ENSEA
-- 05/27/2025, Tingnan Bao, From Performance Analysis to AI-Driven Secure and Intelligent Wireless Communications, 4pm, online.
+- 07/21/2025, Qiao Cheng (Brunel University London, UK), Ground Penetrating Radar (GPR) for Precision Agriculture: Insights from the TuberScan Project, ENSEA
+- 07/21/2025, Wenjuan Yu (Lancaster University, UK), From Collision to Connection: Random-Access Enhancements for Massive Connectivity, ENSEA
+- 07/09/2025, Ali Khalesi (IPSA), Fundamental Limits of Distributed Networked Systems: An Information-Theoretic Journey Across Coding Theory and Sparse Matrix Factorisation, 4pm, ENSEA
+- 06/30/2025, Matthieu R. Bloch (Georgia Institute of Technology, USA), Integrated Sensing and Communication: Time Scales Matter, 11am, ENSEA
+- 05/27/2025, Tingnan Bao (University of Ottawa, Canada), From Performance Analysis to AI-Driven Secure and Intelligent Wireless Communications, 4pm, online.
 - 05/14/2025, Nisrine IBADAH, Approches multi-niveaux pour la résilience, la sécurisation et l’efficacité énergétique des réseaux mobiles, 4pm, ENSEA
 - 05/12/2025, Abdelhamid GARAH, Gestion autonome des services de sécurité dans l'Internet des objets, 2pm, Online.
 - 05/07/2025, Hervé Talé Kalachi (Université de Yaoundé I), Décodage en métrique rang : des corps finis aux anneaux finis, 2pm, ENSEA, D331.
