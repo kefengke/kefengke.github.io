@@ -1,5 +1,9 @@
 ## ETIS-ICI Seminar Series
-
+- 04/15/2026, Laura Luzzi (ENSEA), Covert communication over additive noise channels, 10:30am, ENSEA
+- 04/14/2026, E. Veronica Belmega (Univ. Gustave Eiffel - ESIEE Paris and LIGM laboratory), Research overview and two recent contributions, 10:30am, ENSEA
+- 04/01/2026, Adrien Berthelo, Empreinte environnementale du numérique : comprendre et évaluer, 2pm, online
+- 03/31/2026, Samar Chebbi,From MIMO-NOMA Optimization to EMF Mapping: Towards Sustainable and Energy-Efficient Wireless Networks
+- 02/20/2026, Mamady Delamou (ETIS), Wireless Sensing for Parameter Estimation and Physical Layer Security, ENSEA. 
 - 01/27/2026, Matthias Frey (University of Melbourne, Australia), Robust and Efficient Analog Over-the-Air Computation, 10am, online.
 - 12/02/2025, Asmaa Amer (ETIS, CY-Cergy/ENSEA/CNRS), Energy Efficiency and Localization Accuracy in Pinching Antenna-based Sub-THz System, 10am, ENSEA
 - 10/13/2025, Sanjoy Kumar Jhawar (Télécom Paris & INRIA Paris), Handover frequency in dynamic terrestrial communication network, 2pm, ENSEA
