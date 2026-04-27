@@ -1,6 +1,9 @@
 ## ETIS-ICI Seminar Series
+- 05/04/2026, Karim Abed-Meraim (University of Orléans), Extremely Large Antenna Arrays (ELAA) For 6G Communications & Sensing, 2pm, ENSEA
 - 04/15/2026, Laura Luzzi (ENSEA), Covert communication over additive noise channels, 10:30am, ENSEA
 - 04/14/2026, E. Veronica Belmega (Univ. Gustave Eiffel - ESIEE Paris and LIGM laboratory), Research overview and two recent contributions, 10:30am, ENSEA
+- 04/09/2026, Sotiris Skaperas, Efficient and robust learning approaches for dynamic wireless and edge systems, 10:30am, ENSEA
+- 04/08/2026, Sheida Nozari, From Collective Behavior to Distributed Intelligence: Physics-Informed Learning in Multi-Agent Systems, 10:30am, online
 - 04/01/2026, Adrien Berthelo, Empreinte environnementale du numérique : comprendre et évaluer, 2pm, online
 - 03/31/2026, Samar Chebbi,From MIMO-NOMA Optimization to EMF Mapping: Towards Sustainable and Energy-Efficient Wireless Networks
 - 02/20/2026, Mamady Delamou (ETIS), Wireless Sensing for Parameter Estimation and Physical Layer Security, ENSEA. 
