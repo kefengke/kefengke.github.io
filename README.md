@@ -10,7 +10,7 @@ My topics of interest include networks, probabilities, stochastic geometry, info
 #### Epidemics on random bipartite geometric (RBG) graph
 "Spatial Disease Propagation With Hubs", with Martin Haenggi, IEEE Trans. Netw. Sci. Eng., 2025. [arXiv.](http://arxiv.org/abs/2502.16552)
 #### Dynamic networks
-"Poisson hail on a wireless ground", with François Baccelli and Sergey Foss, submitted, 2025. [arXiv.](https://arxiv.org/abs/2501.10712)  [code.](https://github.com/kefengke/PHWG)
+"Poisson hail on a wireless ground", with François Baccelli and Sergey Foss, IEEE Trans. Inf. Theory, Accepted 2026. [arXiv.](https://arxiv.org/abs/2501.10712)  [code.](https://github.com/kefengke/PHWG)
 #### Spatial network calculus and performance guarantees
 "Performance Guarantees of Cellular Networks with Hardcore Regulation and Scheduling", with François Baccelli and Catherine Rosenburg, Globecom 2025, Taipei. [arXiv.](https://arxiv.org/abs/2602.01802)  
 "Spatial Network Calculus: Toward Deterministic Wireless Networking", with Yi Zhong and Xiaohang Zhou, IEEE Trans. Wirel. Commun., Accepted, 2025. [arXiv.](https://arxiv.org/abs/2501.02556)  
