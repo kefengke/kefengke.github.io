@@ -1,10 +1,10 @@
 CNRS Researcher (Chargée de Recherche) - ETIS  
 Email: ke.feng at ensea.fr  
 My topics of interest include networks, probabilities, stochastic geometry, information theory, and wireless communications  
-[Google scholar](https://scholar.google.com/citations?hl=en&tzom=-120&user=iNx3NCoAAAAJ)
+[Google scholar](https://scholar.google.com/citations?hl=en&tzom=-120&user=iNx3NCoAAAAJ)  
 
 
-
+Opening: Postdoc position "Spatial network calculus for QoS guarantees in dense IoT networks", apply [here](https://emploi.cnrs.fr/Offres/CDD/UMR8051-VIRLAI-020/Default.aspx).
 
 ### Research
 #### Epidemics on random bipartite geometric (RBG) graph
@@ -24,8 +24,7 @@ My topics of interest include networks, probabilities, stochastic geometry, info
 
 
 ### Teaching/Supervison
-Information Theory, ENSEA, S8, Spring 2026. 
-
+Information Theory, ENSEA, S8, Spring 2026.  
 M1 Internship, "Performance Evaluation of Spacetime Wireless Systems", ORNELLA SANGANG DCHYMKOU, co-advised with Qiong Liu, 2025.  
 M1 Internship, "Stochastic Geometry-Guided AI for Network Optimization", Yuxuan Peng, co-advised with Qiong Liu, 2025.  
 
