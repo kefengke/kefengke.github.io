@@ -57,5 +57,6 @@ My topics of interest include networks, probabilities, stochastic geometry, info
 CNRS Researcher, ETIS, France, 2024-  
 Postdoctoral fellow, Inria-ENS Paris, France, 2021-2024  
 Ph.D. and M.Sc., University of Notre Dame, USA, 2016-2021  
-B.Sc., USTC, China, 2012-2016 
+B.Sc., USTC, China, 2012-2016  
+
 [Last updated: May 2026]
