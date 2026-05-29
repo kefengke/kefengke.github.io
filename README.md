@@ -6,10 +6,10 @@ My topics of interest include networks, probabilities, stochastic geometry, info
 
 <details open>
 <summary>Openings</summary>
-  
+
 - Postdoc position "Spatial network calculus for QoS guarantees in dense IoT networks", 2026, apply [here](https://emploi.cnrs.fr/Offres/CDD/UMR8051-VIRLAI-020/Default.aspx).  
 - PhD position "Inference problems in large networks", 2026, apply by email.
-  
+
 </details>
 
 <details>
@@ -37,7 +37,7 @@ My topics of interest include networks, probabilities, stochastic geometry, info
 
 <details>
 <summary>Teaching/Supervison</summary> 
-  
+
 - Information Theory, ENSEA, S8, Spring 2026.  
 - M1 Internship, "Performance Evaluation of Spacetime Wireless Systems", ORNELLA SANGANG DCHYMKOU, co-advised with Qiong Liu, 2025.  
 - M1 Internship, "Stochastic Geometry-Guided AI for Network Optimization", Yuxuan Peng, co-advised with Qiong Liu, 2025.  
@@ -48,7 +48,7 @@ My topics of interest include networks, probabilities, stochastic geometry, info
 
 <details>
 <summary>Some links</summary>
-  
+
 [ETIS-ICI Seminars](https://kefengke.github.io/seminars.html)  
 [Mathnet Seminars](https://team.inria.fr/mathnet/seminar/)  
 [LINCS](https://www.lincs.fr)  
