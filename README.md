@@ -5,15 +5,10 @@ My topics of interest include networks, probabilities, stochastic geometry, info
 
 
 <details open>
- 
-<summary>
- 
- Openings
+<summary>Openings</summary>
 
-</summary>
-
-* <p>Postdoc position "Spatial network calculus for QoS guarantees in dense IoT networks", 2026, apply <a href="https://emploi.cnrs.fr/Offres/CDD/UMR8051-VIRLAI-020/Default.aspx">here</a></p>
-* <p>PhD position "Inference problems in large networks", 2026, apply by email.</p>
+* Postdoc position "Spatial network calculus for QoS guarantees in dense IoT networks", 2026, apply <a href="https://emploi.cnrs.fr/Offres/CDD/UMR8051-VIRLAI-020/Default.aspx">here</a>
+* PhD position "Inference problems in large networks", 2026, apply by email.
 
 </details>
 Research
@@ -38,36 +33,26 @@ Research
 
 
 <details>
+<summary>Teaching/Supervison</summary> 
  
-<summary>
- 
- Teaching/Supervison
- 
- </summary> 
-
-* Information Theory, ENSEA, S8, Spring 2026.  
-* M1 Internship, "Performance Evaluation of Spacetime Wireless Systems", ORNELLA SANGANG DCHYMKOU, co-advised with Qiong Liu, 2025.  
-* M1 Internship, "Stochastic Geometry-Guided AI for Network Optimization", Yuxuan Peng, co-advised with Qiong Liu, 2025.  
+<pre>
+Information Theory, ENSEA, S8, Spring 2026.  
+M1 Internship, "Performance Evaluation of Spacetime Wireless Systems", ORNELLA SANGANG DCHYMKOU, co-advised with Qiong Liu, 2025.  
+M1 Internship, "Stochastic Geometry-Guided AI for Network Optimization", Yuxuan Peng, co-advised with Qiong Liu, 2025.  
+</pre>
 
 </details>
 
  
 
 <details>
- 
-<summary>
- 
- Some links
-
-</summary>
-<a href="https://kefengke.github.io/seminars.html">ETIS-ICI Seminars</a>
-                                                                     
-<a href="https://team.inria.fr/mathnet/seminar/">Mathnet Seminars</a>
-                                                                     
-<a href="https://www.lincs.fr">LINCS</a>
-                                                                     
+<summary>Some links</summary>
+<pre>
+<a href="https://kefengke.github.io/seminars.html">ETIS-ICI Seminars</a>                                                                    
+<a href="https://team.inria.fr/mathnet/seminar/">Mathnet Seminars</a>                                                                    
+<a href="https://www.lincs.fr">LINCS</a>                                                                   
 <a href="https://stogblog.net">Random Thoughts on Stochastic Geometry</a>
-
+</pre>
 </details>
 
 
