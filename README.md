@@ -10,11 +10,12 @@ My topics of interest include networks, probabilities, stochastic geometry, info
 <pre>
 Postdoc position "Spatial network calculus for QoS guarantees in dense IoT networks", 2026, apply <a href="https://emploi.cnrs.fr/Offres/CDD/UMR8051-VIRLAI-020/Default.aspx">here</a>
 PhD position "Inference problems in large networks", 2026, apply by email.
+M1/M2 internship, apply by email.
 </pre>
 
 </details>
 
-Research
+Selected Research
 
 - Epidemics on random bipartite geometric (RBG) graph  
   "Spatial Disease Propagation With Hubs", with Martin Haenggi, IEEE Trans. Netw. Sci. Eng., 2025. [arXiv.](http://arxiv.org/abs/2502.16552)
