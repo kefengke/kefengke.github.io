@@ -1,4 +1,10 @@
 ## ETIS-ICI Seminar Series
+- 10/16/2026, Virginio Fratianni (ETIS), Duality and Hull Structures of Linear Codes from Cryptographic Functions: Algebraic Contributions and Quantum Perspectives, 11am
+- 10/12/2026, Lukas Landau (PCU, Brazil), Physical Layer Design With Hardware Constraints: Improved Methods and Novel Concepts, 2pm
+- 09/14/2026, Chee Yen (Bruce) Leow and Pei Ling Leow, Hybrid Reconfigurable Intelligent Surfaces and UAV for Vehicle-to-Everything Communication; Sensing Research and Applications: Linking Industrial, LabChip, and Connected Vehicle, 10:30am
+- 06/17/2026, Ran Tamir, How Much Information Can Be Stored Using Very Short Molecules? 2pm
+- 06/12/2026, Asmaa Amer, Mamady Delamou, Marco Guzzo, Hajar El Hassani, and Annapurna Pradhan, 2pm
+- 06/16/2026, Roya Khanzadeh, Trustworthy Wireless Communications: From Assessment to Environmental-Aware Enhancement, 10:30am
 - 05/04/2026, Karim Abed-Meraim (University of Orléans), Extremely Large Antenna Arrays (ELAA) For 6G Communications & Sensing, 2pm, ENSEA
 - 04/15/2026, Laura Luzzi (ENSEA), Covert communication over additive noise channels, 10:30am, ENSEA
 - 04/14/2026, E. Veronica Belmega (Univ. Gustave Eiffel - ESIEE Paris and LIGM laboratory), Research overview and two recent contributions, 10:30am, ENSEA
