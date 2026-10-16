@@ -8,9 +8,9 @@ My topics of interest include networks, probabilities, stochastic geometry, info
 <summary>Openings</summary>
   
 <pre>
-Postdoc position "Spatial network calculus for QoS guarantees in dense IoT networks", 2026, apply <a href="https://emploi.cnrs.fr/Offres/CDD/UMR8051-VIRLAI-020/Default.aspx">here</a>
-PhD position "Inference problems in large networks", 2026, apply by email.
-M1/M2 internship, apply by email.
+PhD position "Performance guarantees in wireless networks", apply by email.
+PhD position "Inference problems in large networks", apply by email.
+M1/M2 internship, open topics, apply by email.
 </pre>
 
 </details>
@@ -21,7 +21,7 @@ Selected Research
   "Spatial Disease Propagation With Hubs", with Martin Haenggi, IEEE Trans. Netw. Sci. Eng., 2025. [arXiv.](http://arxiv.org/abs/2502.16552)
 
 - Dynamic networks  
-  "Poisson hail on a wireless ground", with François Baccelli and Sergey Foss, IEEE Trans. Inf. Theory, Accepted 2026. [arXiv.](https://arxiv.org/abs/2501.10712)  [code.](https://github.com/kefengke/PHWG)
+  "Poisson hail on a wireless ground", with François Baccelli and Sergey Foss, IEEE Trans. Inf. Theory, 2026. [arXiv.](https://arxiv.org/abs/2501.10712)  [code.](https://github.com/kefengke/PHWG)
 
 - Spatial network calculus and performance guarantees  
 "Performance Guarantees of Cellular Networks with Hardcore Regulation and Scheduling", with François Baccelli and Catherine Rosenburg, Globecom 2025, Taipei. [arXiv.](https://arxiv.org/abs/2602.01802)  
